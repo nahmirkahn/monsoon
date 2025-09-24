@@ -10,9 +10,6 @@ __pycache__/
 .DS_Store
 
 # Local data (large files) - not tracked
-data/**
-artifacts/csv/**
-comprehensive_data/**
 
 # Checkpoints
 .ipynb_checkpoints/
